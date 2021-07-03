@@ -1,4 +1,4 @@
-#!/home/fen/Projects/django_projects/dvg/backend/bin/python
+#!/home/fen/Projects/django_projects/django-vue-graphQL-blogs/backend/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
